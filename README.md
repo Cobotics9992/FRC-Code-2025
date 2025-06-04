@@ -1,2 +1,6 @@
 # FRC-Code-2025
-Code for Coburg High School's FRC team.
+All the code used by Coburg High School's FRC team, Cobotics!
+
+Primary Developers: Oscar, Jamie
+
+
