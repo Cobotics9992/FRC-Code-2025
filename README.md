@@ -1,5 +1,5 @@
 # Coburg High School FRC Code 2025:;
-All the code used by Coburg High School's FRC team, Cobotics!;
+All the code used by Coburg High School's FRC team, Cobotics! It is not entirely original, credit to the people who some of this code is from, thanks for letting us use it. (we coded all the important parts, just saying.);
 
 Coaches: Matthew, Shane, Joanne;
 
