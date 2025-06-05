@@ -7,6 +7,6 @@ Team members: Liam, Tamanna, Lachlan, Tiffany, Ayush, Roshan, Grayson, ;
 
 Primary Developers: Oscar, Jamie, Seeley;
 
-Emotional Support Developers: Adlai (his code hasn't worked yet);
+Emotional Support Developers: Adlai (not really, but he insisted, in fact he is more of a hinderance than a support, please don't tell him);
 
 
