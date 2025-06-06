@@ -10,3 +10,5 @@ Git Master: Oscar;
 Primary Developers: Oscar, Jamie, Seeley;
 
 Emotional Support Developers: Adlai (not really, but he insisted, in fact he is more of a hinderance than a support, please don't tell him);
+
+Also many inside jokes within. :);
